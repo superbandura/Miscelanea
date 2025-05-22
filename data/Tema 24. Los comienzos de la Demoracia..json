@@ -1,0 +1,30 @@
+{
+  "audioFile": "Tema 8. Movimiento obrero.mp3",
+  "questions": [
+    {
+      "time": 12,
+	  "timeback": 4,
+      "text": "¿Qué evento marcó el inicio del proceso independentista?",
+      "id": "q1",
+	  "context": "En 1808, la invasión de España por parte de Napoleón Bonaparte provocó una profunda crisis de legitimidad en la monarquía española. El rey Fernando VII fue depuesto y reemplazado por José Bonaparte, lo que generó un vacío de poder en la metrópoli. Ante esta situación, en América surgieron juntas de gobierno locales que decían actuar en nombre del rey legítimo, pero que progresivamente fueron desarrollando una conciencia independentista. Así, la invasión napoleónica actuó como detonante indirecto del proceso de emancipación de las colonias americanas, al debilitar el control español y abrir un camino hacia la autodeterminación.",
+      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+    },
+    {
+      "time": 45,
+	  "timeback": 30,
+      "text": "¿Quién lideró la primera revuelta?",
+      "id": "q2",
+	  "context": "La invasión de España por parte de Napoleón en 1808",
+      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+    },
+    {
+      "time": 78,
+	  "timeback": 50,
+      "text": "¿Qué país apoyó económicamente al movimiento?",
+      "id": "q3",
+	  "context": "La invasión de España por parte de Napoleón en 1808",
+      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+    }
+  ]
+}
+

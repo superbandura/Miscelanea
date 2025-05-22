@@ -1,0 +1,46 @@
+{
+  "audioFile": "Tema 2. Las independencias americanas.mp3",
+  "questions": [
+    {
+      "time": 92,
+      "timeback": 50,
+      "text": "¿Qué grupo social en América experimentaba un significativo descontento antes de 1808, según el audio, y cuáles eran algunas de sus razones?",
+      "id": "q1",
+      "context": "El audio señala que las tensiones en América ya existían antes del evento clave de 1808. Un grupo particularmente afectado era la burguesía criolla, que eran los descendientes de europeos nacidos en América. Este descontento se originaba, en parte, porque los cargos políticos importantes venían de la península, es decir, eran controlados desde España, lo que les hacía sentir marginados del poder político real. Adicionalmente, el sistema económico y comercial les ponía muchas trabas, limitando sus ambiciones y siempre favoreciendo a la metrópoli española.",
+      "correct_answer": "La burguesía criolla. Se sentían marginados del poder político y el sistema económico les ponía trabas en favor de la metrópoli."
+    },
+    {
+      "time": 140,
+      "timeback": 100,
+      "text": "Según el audio, ¿en nombre de quién actuaban inicialmente las juntas de gobierno que surgieron en América tras el vacío de poder de 1808?",
+      "id": "q2",
+      "context": "Tras la invasión napoleónica de España en 1808, se produjo un vacío de poder real también en América. Como respuesta, surgieron las juntas de gobierno locales, dominadas por criollos en su mayoría. El audio destaca que, al principio, estas juntas actuaban en nombre del rey ausente, Fernando VII. Aunque juraban lealtad al rey, al tomar sus propias decisiones estaban de facto cuestionando la autoridad de los representantes de España y ejerciendo una soberanía, aunque incipiente.",
+      "correct_answer": "En nombre del rey ausente, Fernando VII."
+    },
+    {
+      "time": 208,
+      "timeback": 150,
+      "text": "¿Cómo se describe el impacto de la restauración absolutista de Fernando VII en 1814 en las posturas independentistas en América?",
+      "id": "q3",
+      "context": "Después del periodo de las Cortes de Cádiz y la Constitución de 1812, la restauración del absolutismo por Fernando VII en 1814 fue vista como un retroceso significativo. El audio indica que para muchos en América, esto supuso un jarro de agua fría, ya que demostró la falta de esperanza real para conseguir más autonomía o reformas dentro del imperio español. Esta intransigencia absolutista cerró cualquier vía intermedia posible y empujó directamente a muchos a radicalizar sus posturas, considerando la independencia como la única opción para conseguir sus objetivos.",
+      "correct_answer": "Fue un jarro de agua fría y radicalizó las posturas, haciendo que la independencia pareciera la única salida."
+    },
+    {
+      "time": 277,
+      "timeback": 220,
+      "text": "Según el audio, ¿cuáles fueron algunas de las consecuencias principales para España al perder la mayor parte de su imperio continental en América?",
+      "id": "q4",
+      "context": "La pérdida de casi todo el imperio continental en América representó, sin duda, un golpe durísimo para España. El audio menciona que esto tuvo un enorme impacto económico, al significar una reducción de los ingresos fiscales y un menor acceso a materias primas. Pero, además del aspecto económico, fue una crisis muy profunda de identidad y de prestigio internacional. Esta sensación de pérdida y la necesidad resultante de tener que redefinirse marcaron todo el siglo XIX español.",
+      "correct_answer": "Un golpe durísimo con impacto económico (menos ingresos fiscales, menos materias primas) y una profunda crisis de identidad y prestigio internacional."
+    },
+    {
+      "time": 348,
+      "timeback": 280,
+      "text": "¿La independencia trajo inmediatamente paz y estabilidad a los nuevos estados en América Latina según el audio? ¿Por qué?",
+      "id": "q5",
+      "context": "Aunque la independencia transformó radicalmente el mapa geopolítico y llevó a la aparición de un montón de nuevos estados soberanos, el audio aclara que este proceso no supuso que la paz llegara de forma inmediata a América Latina. La fase posterior fue un periodo convulso para ellos, ya que la construcción de un nuevo estado nunca es fácil y muchos de estos nuevos países sufrieron conflictos internos y guerras civiles.",
+      "correct_answer": "No. Muchos países nuevos sufrieron conflictos internos y guerras civiles, siendo un periodo convulso de construcción estatal."
+    }
+  ]
+}
+

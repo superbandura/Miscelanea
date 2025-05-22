@@ -1,0 +1,69 @@
+{
+  "audioFile": "Tema 5. El Sexenio Democrático.mp3",
+  "questions": [
+    {
+      "time": 48,
+      "timeback": 19,
+      "text": "¿Qué evento marcó el inicio del Sexenio Democrático y cuáles fueron algunas de las causas principales que lo detonaron, según el documento?",
+      "id": "q1",
+      "context": "El Sexenio Democrático (1868-1874) se inicia con la Revolución Gloriosa de 1868, una insurrección cívico-militar que destronó a la reina Isabel II. El documento base de la conversación, un PDF llamado 'Teórico-guion tema 5 El Sexenio Democrático', señala que esta revolución fue detonada por una combinación de factores como la corrupción, una profunda crisis económica y la falta de libertades.",
+      "correct_answer": "La Revolución Gloriosa de 1868. Las causas incluyeron la corrupción, la crisis económica y la falta de libertades."
+    },
+    {
+      "time": 97,
+      "timeback": 70,
+      "text": "Tras la Revolución Gloriosa y la formación de un gobierno provisional, ¿cuál fue el gran dilema político que marcó el inicio del Sexenio?",
+      "id": "q2",
+      "context": "Después de la Revolución Gloriosa, se formó un gobierno provisional encabezado por Serrano. Su tarea principal fue convocar Cortes Constituyentes elegidas por sufragio universal masculino. De este proceso surgió el gran dilema que definiría el periodo: si España debía ser una monarquía parlamentaria o una república.",
+      "correct_answer": "El dilema entre establecer una monarquía parlamentaria o una república."
+    },
+    {
+      "time": 123,
+      "timeback": 95,
+      "text": "¿Cuál es considerado el aspecto más rompedor o el pilar fundamental de la Constitución de 1869, según el análisis del texto?",
+      "id": "q3",
+      "context": "La Constitución de 1869, nacida de las Cortes Constituyentes, es descrita como muy avanzada para su época. El texto destaca que su consagración más importante y rompedora fue la soberanía nacional, estableciendo que el poder reside en la nación, en los ciudadanos, y no en la corona, lo cual representó un cambio de paradigma.",
+      "correct_answer": "La consagración de la soberanía nacional, significando que el poder reside en la nación y no en la corona."
+    },
+    {
+      "time": 161,
+      "timeback": 148,
+      "text": "Además de la soberanía nacional, ¿qué otro avance democrático crucial de la Constitución de 1869 se menciona como un 'salto democrático enorme', aunque con limitaciones?",
+      "id": "q4",
+      "context": "Otro avance crucial que el texto subraya de la Constitución de 1869 es el sufragio universal masculino. Ampliar el voto a todos los varones mayores de edad sin importar la renta fue considerado un salto democrático enorme, aunque el propio audio reconoce la limitación de excluir a las mujeres, algo lógico para la época pero una limitación desde la perspectiva actual.",
+      "correct_answer": "El sufragio universal masculino, que amplió el voto a todos los varones mayores de edad independientemente de su renta."
+    },
+    {
+      "time": 269,
+      "timeback": 219,
+      "text": "¿Qué evento se considera un 'golpe fatal' para la estabilidad del régimen monárquico de Amadeo I y por qué?",
+      "id": "q5",
+      "context": "Un golpe que el documento señala como fatal para la estabilidad fue el asesinato del General Prim en 1870. Prim era el hombre fuerte del momento y el principal valedor del nuevo rey, Amadeo de Saboya. Su muerte dejó al régimen monárquico sin su arquitecto principal y muy debilitado, contribuyendo a la falta de apoyos internos que finalmente llevaron a la abdicación de Amadeo I en 1873.",
+      "correct_answer": "El asesinato del General Prim en 1870, porque era el principal valedor del rey Amadeo I y su muerte debilitó enormemente al régimen."
+    },
+    {
+      "time": 329,
+      "timeback": 295,
+      "text": "Durante la Primera República, surgió un fenómeno que fragmentó el poder estatal. ¿Cómo se llamó este movimiento y en qué consistió brevemente?",
+      "id": "q6",
+      "context": "La Primera República, proclamada en 1873 tras la abdicación de Amadeo I, nació casi condenada por sus divisiones internas. Un fenómeno clave que el texto introduce para entender su fragmentación es el cantonalismo. Este fue un movimiento, especialmente durante la Primera República, donde diversas regiones, ciudades e incluso pueblos se declararon cantones independientes, como pequeños estados autogobernados, lo que dificultó enormemente la consolidación de la República.",
+      "correct_answer": "El cantonalismo. Consistió en que diversas regiones y ciudades se declararon cantones independientes o pequeños estados autogobernados."
+    },
+    {
+      "time": 380,
+      "timeback": 359,
+      "text": "A pesar de las aspiraciones democráticas, el Sexenio Democrático fracasó. Según el resumen del documento, ¿cuáles fueron las causas principales de este fracaso?",
+      "id": "q7",
+      "context": "El Sexenio Democrático, a pesar de sus enormes aspiraciones democráticas plasmadas en la Constitución de 1869, fracasó estrepitosamente. El documento atribuye este fracaso a una inestabilidad política crónica, alimentada por profundísimas divisiones ideológicas (monárquicos vs. republicanos, centralistas vs. federalistas/cantonalistas) y territoriales. Esta inestabilidad fue además agravada por guerras simultáneas como la Guerra de Cuba y la Tercera Guerra Carlista.",
+      "correct_answer": "La inestabilidad política crónica, profundas divisiones ideológicas y territoriales, y el agravante de guerras simultáneas (Cuba y Tercera Guerra Carlista)."
+    },
+    {
+      "time": 443,
+      "timeback": 385,
+      "text": "A pesar de su corta vida y fracaso inmediato, ¿qué legado clave del Sexenio Democrático rescata el documento que influiría en el futuro de España?",
+      "id": "q8",
+      "context": "Aunque el Sexenio Democrático tuvo una vida corta y un final abrupto, el documento subraya que sentó precedentes cruciales. Destaca la idea de la soberanía nacional y la ampliación de derechos y libertades. Estos principios, aunque luego fueron 'enterrados' durante la Restauración borbónica, quedaron latentes e influirían mucho en el futuro constitucional español.",
+      "correct_answer": "Sentó precedentes cruciales como la idea de soberanía nacional y la ampliación de derechos y libertades, que influirían en el futuro constitucional español."
+    }
+  ]
+}
