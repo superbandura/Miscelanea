@@ -1,30 +1,45 @@
 {
-  "audioFile": "Tema 8. Movimiento obrero.mp3",
+  "audioFile": "Tema 13. II Republica constitución de 1931.mp3",
   "questions": [
     {
-      "time": 12,
-	  "timeback": 4,
-      "text": "¿Qué evento marcó el inicio del proceso independentista?",
+      "time": 52,
+      "timeback": 33,
+      "text": "Una de las primeras y más apasionadas discusiones en las Cortes Constituyentes de la Segunda República fue sobre el voto femenino. ¿Cuál era la 'paradoja' o 'contradicción' que existía respecto a la participación política de las mujeres en ese momento, según el audio?",
       "id": "q1",
-	  "context": "En 1808, la invasión de España por parte de Napoleón Bonaparte provocó una profunda crisis de legitimidad en la monarquía española. El rey Fernando VII fue depuesto y reemplazado por José Bonaparte, lo que generó un vacío de poder en la metrópoli. Ante esta situación, en América surgieron juntas de gobierno locales que decían actuar en nombre del rey legítimo, pero que progresivamente fueron desarrollando una conciencia independentista. Así, la invasión napoleónica actuó como detonante indirecto del proceso de emancipación de las colonias americanas, al debilitar el control español y abrir un camino hacia la autodeterminación.",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "Tras la proclamación de la República el 14 de abril de 1931, la prioridad era crear una constitución democrática y moderna. En las Cortes Constituyentes, uno de los debates más 'simbólicos y apasionados' fue el del voto femenino. El audio, basándose en los textos, resalta una 'paradoja' o 'contradicción enorme': las mujeres 'podían ser elegidas diputadas, pero no votar'. Esta situación generó un intenso debate.",
+      "correct_answer": "La paradoja era que las mujeres podían ser elegidas diputadas pero no tenían derecho a votar."
     },
     {
-      "time": 45,
-	  "timeback": 30,
-      "text": "¿Quién lideró la primera revuelta?",
+      "time": 116,
+      "timeback": 52,
+      "text": "Clara Campoamor fue una figura fundamental en la defensa del sufragio femenino. Además de apelar a la justicia e igualdad, ¿qué argumento principal utilizó para defender el voto de la mujer, relacionado con la coherencia del propio sistema republicano, y cómo rebatió los prejuicios comunes?",
       "id": "q2",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "Clara Campoamor, diputada del Partido Radical, fue clave en la defensa del voto femenino. Sus discursos en las Cortes (finales de septiembre - principios de octubre de 1931) son cruciales. Más allá de la justicia o igualdad, 'apeló, digamos, a la coherencia del propio sistema republicano'. Era como decir: 'o somos demócratas de verdad o no lo somos'. También fue 'directa contra los prejuicios', intentando desmontar la idea de que la mujer estaba influenciada por la Iglesia o no preparada para la política, recordando su papel en luchas sociales y laborales.",
+      "correct_answer": "Apeló a la coherencia del sistema republicano (o se era demócrata de verdad o no). Rebatió prejuicios como la influencia de la Iglesia o la falta de preparación de la mujer, recordando su participación en luchas sociales."
     },
     {
-      "time": 78,
-	  "timeback": 50,
-      "text": "¿Qué país apoyó económicamente al movimiento?",
+      "time": 170,
+      "timeback": 117,
+      "text": "Victoria Kent, también republicana, se opuso inicialmente al voto femenino en ese momento. Según los textos analizados en el audio, ¿cuál era la principal razón de Kent para esta postura, más allá del miedo a que las mujeres votaran a la derecha?",
       "id": "q3",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El audio menciona que Victoria Kent, a pesar de ser republicana, se opuso al voto femenino en ese momento. Los textos sugieren que Kent, 'aunque hoy nos choque viniendo de alguien progresista, lo veía desde un punto de vista, digamos, estratégico-político', es decir, una postura 'pragmática'. Su preocupación, más allá del simple miedo a un voto conservador, se enmarcaba en una estrategia para la consolidación de la República en un momento que consideraba delicado.",
+      "correct_answer": "Su postura se basaba en una razón estratégico-política o pragmática, considerando el momento delicado para la consolidación de la República."
+    },
+    {
+      "time": 230,
+      "timeback": 171,
+      "text": "La Constitución de 1931 es calificada como 'muy avanzada'. Además del sufragio femenino, ¿qué otras características la hacían moderna para su época, como el concepto de 'Estado integral' y el tipo de sistema parlamentario que estableció?",
+      "id": "q4",
+      "context": "El sufragio femenino se aprobó el 1 de octubre de 1931, poniendo a España 'en la vanguardia europea'. La Constitución, aprobada el 9 de diciembre de 1931, era 'muy avanzada'. Inspirada en otras constituciones europeas, establecía la 'soberanía popular' y 'derechos a tope'. Introdujo el concepto de 'Estado integral', que buscaba un 'equilibrio entre unidad y autonomía regional, sin ser federalismo puro'. Además, estableció un 'sistema unicameral', eliminando el Senado para que las reformas fueran más rápidas, y creó el Tribunal de Garantías Constitucionales.",
+      "correct_answer": "Introdujo el 'Estado integral' (equilibrio unidad-autonomía regional), un sistema parlamentario unicameral (sin Senado) y el Tribunal de Garantías Constitucionales."
+    },
+    {
+      "time": 290,
+      "timeback": 231,
+      "text": "En cuanto a derechos sociales y la cuestión religiosa, ¿qué avances significativos incorporó la Constitución de 1931 y por qué la cuestión religiosa generó tanta oposición?",
+      "id": "q5",
+      "context": "La Constitución fue 'muy ambiciosa' en derechos sociales: jornadas de 8 horas, sindicación, seguros sociales, protección contra el despido, buscando integrar a la clase trabajadora. También incluyó el divorcio y la educación pública, gratuita y laica, considerados 'cambios sociales enormes'. Sin embargo, la 'cuestión religiosa' (separación Iglesia-Estado, fin de financiación pública al clero, limitación de órdenes religiosas en la enseñanza) fue un 'foco de conflicto brutal', generando una 'oposición conservadora y católica fortísima' y mucha polarización.",
+      "correct_answer": "Incorporó derechos sociales (jornada de 8h, sindicación, seguros sociales, protección despido), divorcio y educación pública laica. La cuestión religiosa (separación Iglesia-Estado, fin financiación clero, limitación órdenes en enseñanza) generó una fortísima oposición conservadora y católica."
     }
   ]
 }
-
