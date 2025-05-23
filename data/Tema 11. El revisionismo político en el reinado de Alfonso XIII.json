@@ -1,30 +1,45 @@
 {
-  "audioFile": "Tema 8. Movimiento obrero.mp3",
+  "audioFile": "Tema 11. El revisionismo político en el reinado de Alfonso XIII.mp3",
   "questions": [
     {
-      "time": 12,
-	  "timeback": 4,
-      "text": "¿Qué evento marcó el inicio del proceso independentista?",
-      "id": "q1",
-	  "context": "En 1808, la invasión de España por parte de Napoleón Bonaparte provocó una profunda crisis de legitimidad en la monarquía española. El rey Fernando VII fue depuesto y reemplazado por José Bonaparte, lo que generó un vacío de poder en la metrópoli. Ante esta situación, en América surgieron juntas de gobierno locales que decían actuar en nombre del rey legítimo, pero que progresivamente fueron desarrollando una conciencia independentista. Así, la invasión napoleónica actuó como detonante indirecto del proceso de emancipación de las colonias americanas, al debilitar el control español y abrir un camino hacia la autodeterminación.",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
-    },
-    {
       "time": 45,
-	  "timeback": 30,
-      "text": "¿Quién lideró la primera revuelta?",
-      "id": "q2",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "timeback": 8,
+      "text": "Según el audio, ¿cuál era el objetivo principal del revisionismo político durante el reinado de Alfonso XIII y por qué surgió esta necesidad de reforma?",
+      "id": "q1",
+      "context": "El audio introduce el revisionismo político como un intento de 'reformar desde dentro el sistema de la Restauración'. Este sistema, basado en la 'alternancia pactada entre liberales y conservadores', ya a principios del siglo XX 'daba señales de agotamiento'. La sociedad y la economía estaban cambiando y 'pedían cambios'. El revisionismo se describe como una 'revolución desde arriba', un intento de 'modernizar sin romperlo todo', con Alfonso XIII intentando 'revitalizar la monarquía' y acercarse más, incluso viajando a Canarias para reforzar la idea de unidad.",
+      "correct_answer": "El objetivo era reformar desde dentro el sistema de la Restauración, que estaba agotado, para modernizarlo y revitalizar la monarquía ante los cambios sociales y económicos."
     },
     {
-      "time": 78,
-	  "timeback": 50,
-      "text": "¿Qué país apoyó económicamente al movimiento?",
+      "time": 102,
+      "timeback": 49,
+      "text": "El conservador Antonio Maura fue una figura clave del revisionismo. ¿Qué dos medidas importantes impulsó, una electoral y otra social, y cuál fue su objetivo con la primera?",
+      "id": "q2",
+      "context": "Antonio Maura buscaba 'legitimar el sistema, fortalecer el tejido social'. Una medida clave fue la Ley Electoral de 1907, que 'introdujo el voto secreto y obligatorio', con el objetivo de 'intentar acabar con el caciquismo', aunque su efecto fue limitado. En lo social, fue 'fundamental' la creación del Instituto Nacional de Previsión en 1908, descrito como 'el germen, la base de la Seguridad Social en España', surgido en un momento de condiciones laborales durísimas y mucha tensión social.",
+      "correct_answer": "Impulsó la Ley Electoral de 1907 (voto secreto y obligatorio para combatir el caciquismo) y la creación del Instituto Nacional de Previsión (base de la Seguridad Social)."
+    },
+    {
+      "time": 150,
+      "timeback": 105,
+      "text": "El proyecto reformista de Maura se vio truncado por un evento específico. ¿Cuál fue este evento y qué consecuencias tuvo para Maura y su proyecto?",
       "id": "q3",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El impulso reformista conservador de Maura 'se torció, y mucho, con la Semana Trágica de Barcelona en 1909', desencadenada por las protestas contra las levas para la guerra de Marruecos. 'La represión fue durísima'. Este evento 'debilitó enormemente a Maura, marcó un antes y un después para su proyecto'.",
+      "correct_answer": "La Semana Trágica de Barcelona en 1909, debido a las protestas contra las levas para Marruecos. La dura represión debilitó enormemente a Maura y su proyecto."
+    },
+    {
+      "time": 213,
+      "timeback": 152,
+      "text": "Tras Maura, el liberal José Canalejas intentó otra vía de regeneración. ¿Cuáles fueron algunas de sus principales iniciativas en lo laboral, fiscal, militar y en la relación Iglesia-Estado, incluyendo su actuación específica en Canarias?",
+      "id": "q4",
+      "context": "José Canalejas intentó una vía 'más social quizá, y más laica'. Impulsó leyes para mejorar condiciones laborales (contratos de aprendizaje, prohibir trabajo nocturno femenino) para frenar la conflictividad obrera. Sustituyó el impuesto de consumos por un 'impuesto sobre rentas urbanas, más progresivo'. Estableció el 'servicio militar obligatorio', acabando con la posibilidad de pagar para librarse. En la relación Iglesia-Estado, impulsó la 'famosa Ley del Candado de 1910' para limitar la creación de nuevas órdenes religiosas. En lo regional, impulsó la Mancomunidad Catalana y, para Canarias, la 'Ley de Cabildos', un 'hito para las islas' que les dio una 'administración propia ajustada a su realidad'.",
+      "correct_answer": "Mejoras laborales (aprendizaje, trabajo femenino), impuesto progresivo sobre rentas urbanas, servicio militar obligatorio, Ley del Candado (limitar órdenes religiosas) y la Ley de Cabildos para Canarias."
+    },
+    {
+      "time": 281,
+      "timeback": 222,
+      "text": "A pesar de los esfuerzos reformistas de Maura y Canalejas, el sistema de la Restauración finalmente colapsó. ¿Qué factores contribuyeron a este declive, incluyendo eventos internacionales y problemas internos?",
+      "id": "q5",
+      "context": "El asesinato de Canalejas en 1912 cortó sus reformas y dejó al Partido Liberal en crisis. A partir de ahí, 'el declive parece que se acelera'. A pesar de los esfuerzos, 'el sistema no aguantó'. El 'turno se rompió, los partidos estaban fragmentados'. Luego vino la Primera Guerra Mundial; aunque España fue neutral, 'el impacto económico fue brutal' (inflación, escasez, tensión social). Las tensiones regionales y sociales se agudizaron (en Canarias, la 'era de las Canary Islands' reforzó la identidad insular ligada al comercio). Finalmente, 'el desastre de Annual en Marruecos en 1921' demostró la 'incapacidad del sistema parlamentario para dar respuestas', preparando el terreno para el golpe de Primo de Rivera en 1923 con apoyo del rey, que supuso el 'adiós a la Restauración'.",
+      "correct_answer": "Asesinato de Canalejas, ruptura del turno, fragmentación de partidos, impacto económico de la I Guerra Mundial (inflación, escasez, tensión social), agudización de tensiones regionales/sociales y el desastre de Annual."
     }
   ]
 }
-
