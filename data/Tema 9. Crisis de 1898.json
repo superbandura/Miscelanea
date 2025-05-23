@@ -1,30 +1,45 @@
 {
-  "audioFile": "Tema 8. Movimiento obrero.mp3",
+  "audioFile": "Tema 9. Crisis del 1898.mp3",
   "questions": [
     {
-      "time": 12,
-	  "timeback": 4,
-      "text": "¿Qué evento marcó el inicio del proceso independentista?",
+      "time": 61,
+      "timeback": 18,
+      "text": "El audio menciona la Guerra de Cuba y la intervención de Estados Unidos como antecedentes clave de la crisis del 98. ¿Qué supuso la pérdida de Cuba, Filipinas, Puerto Rico y Guam para España, sellada en el Tratado de París?",
       "id": "q1",
-	  "context": "En 1808, la invasión de España por parte de Napoleón Bonaparte provocó una profunda crisis de legitimidad en la monarquía española. El rey Fernando VII fue depuesto y reemplazado por José Bonaparte, lo que generó un vacío de poder en la metrópoli. Ante esta situación, en América surgieron juntas de gobierno locales que decían actuar en nombre del rey legítimo, pero que progresivamente fueron desarrollando una conciencia independentista. Así, la invasión napoleónica actuó como detonante indirecto del proceso de emancipación de las colonias americanas, al debilitar el control español y abrir un camino hacia la autodeterminación.",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El audio sitúa la Guerra de Cuba (1895-1898) como el 'último gran intento de España por mantener lo que quedaba del imperio'. Estados Unidos interviene con sus propios intereses económicos y geopolíticos en el Caribe. El conflicto se extiende a Filipinas, Puerto Rico y Guam. El Tratado de París en diciembre del 98 oficializa la cesión de todos estos territorios a Estados Unidos, además de otras islas menores en el Pacífico. Esto se describe como la 'liquidación del imperio colonial español', un 'palo' que tuvo un profundo impacto interno.",
+      "correct_answer": "Supuso la cesión de estos territorios a Estados Unidos y la liquidación del imperio colonial español, un evento de gran impacto para el país."
     },
     {
-      "time": 45,
-	  "timeback": 30,
-      "text": "¿Quién lideró la primera revuelta?",
+      "time": 118,
+      "timeback": 65,
+      "text": "A pesar del severo impacto económico inicial por la pérdida de colonias, el audio menciona una 'paradoja': la repatriación de capitales. ¿En qué consistió este fenómeno y qué efecto tuvo en la economía española y las cuentas del Estado?",
       "id": "q2",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El impacto económico de la pérdida de colonias (materias primas, mercados para industrias como la textil catalana o la siderurgia vasca) fue 'bastante severo'. Sin embargo, el texto académico señala una 'paradoja': muchos españoles con negocios y dinero invertido en Cuba o Filipinas decidieron 'traer ese capital de vuelta a la península'. Una parte de ese dinero 'se reinvirtió aquí, en la industria española' e incluso 'ayudó a sanear un poco las cuentas del Estado, la hacienda pública'. Además, forzó una adaptación, buscando cultivos sustitutivos como la remolacha azucarera.",
+      "correct_answer": "Consistió en que españoles con capital en las colonias lo trajeron de vuelta a la península. Parte se reinvirtió en la industria española y ayudó a sanear las cuentas del Estado."
     },
     {
-      "time": 78,
-	  "timeback": 50,
-      "text": "¿Qué país apoyó económicamente al movimiento?",
+      "time": 172,
+      "timeback": 121,
+      "text": "Más allá de lo económico, la crisis del 98 provocó una 'sacudida ideológica y política'. ¿Qué movimiento intelectual surgió con fuerza y qué denunciaba? ¿Quiénes fueron el reflejo literario de esta angustia?",
       "id": "q3",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El impacto de la crisis fue 'profundísimo' a nivel ideológico y político. A nivel intelectual, surgió con mucha fuerza el 'regeneracionismo', un movimiento de intelectuales y políticos 'muy crítico' que denunciaban lo que veían como 'el atraso, la decadencia de España' y pedían 'reformas urgentes'. Los escritores de la 'Generación del 98' son descritos como 'el reflejo perfecto de esa angustia', de esa 'búsqueda de una nueva identidad para el país'.",
+      "correct_answer": "Surgió el regeneracionismo, que denunciaba el atraso y la decadencia de España pidiendo reformas. Los escritores de la Generación del 98 reflejaron esta angustia."
+    },
+    {
+      "time": 220,
+      "timeback": 173,
+      "text": "Políticamente, ¿cómo afectó la derrota del 98 al sistema de la Restauración y qué tipo de movimientos y sentimientos crecieron como consecuencia?",
+      "id": "q4",
+      "context": "La derrota dejó 'clarísima la ineficacia del sistema político que había entonces, la Restauración'. Se vio como un sistema 'débil, corrupto, manejado por una élite'. Esto 'alimentó la hostilidad hacia el régimen'. Crecieron movimientos que ya existían pero que cogieron mucha fuerza: 'los nacionalismos, el catalán, el vasco; el movimiento obrero también; los republicanos'. Todos cuestionaban el sistema. Además, surgió un 'sentimiento antimilitarista muy fuerte en la calle', al ver al ejército como 'incompetente tras el desastre'.",
+      "correct_answer": "Dejó clara la ineficacia del sistema de la Restauración, alimentando la hostilidad hacia él. Crecieron los nacionalismos, el movimiento obrero, los republicanos y un fuerte sentimiento antimilitarista."
+    },
+    {
+      "time": 277,
+      "timeback": 221,
+      "text": "Ante el cuestionamiento del sistema, ¿hubo intentos de reforma desde el propio poder? El audio menciona a dos figuras clave, una conservadora y otra liberal, y sus propuestas. ¿Quiénes fueron y qué buscaban principalmente?",
+      "id": "q5",
+      "context": "Sí hubo intentos de reforma. El audio destaca a Antonio Maura (conservador), que propuso la 'revolución desde arriba': hacer reformas controladas para modernizar el país y, sobre todo, 'evitar una revolución social desde abajo'. Por otro lado, José Canalejas (liberal) impulsó leyes más modernizadoras, como la 'Ley del Candado', que intentaba 'limitar el poder de la Iglesia Católica, sobre todo en la educación'. Eran intentos de 'apuntalar el edificio para que no se cayera'.",
+      "correct_answer": "Antonio Maura (conservador) propuso la 'revolución desde arriba' para modernizar y evitar una revolución social. José Canalejas (liberal) impulsó leyes modernizadoras como la Ley del Candado para limitar el poder de la Iglesia."
     }
   ]
 }
-
