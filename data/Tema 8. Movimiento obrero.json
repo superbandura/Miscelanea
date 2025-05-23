@@ -2,29 +2,52 @@
   "audioFile": "Tema 8. Movimiento obrero.mp3",
   "questions": [
     {
-      "time": 12,
-	  "timeback": 4,
-      "text": "¿Qué evento marcó el inicio del proceso independentista?",
+      "time": 56,
+      "timeback": 24,
+      "text": "Según el audio, ¿cuáles eran las condiciones de vida y trabajo de jornaleros y obreros industriales que impulsaron el inicio de la movilización obrera y campesina en España entre los siglos XIX y XX?",
       "id": "q1",
-	  "context": "En 1808, la invasión de España por parte de Napoleón Bonaparte provocó una profunda crisis de legitimidad en la monarquía española. El rey Fernando VII fue depuesto y reemplazado por José Bonaparte, lo que generó un vacío de poder en la metrópoli. Ante esta situación, en América surgieron juntas de gobierno locales que decían actuar en nombre del rey legítimo, pero que progresivamente fueron desarrollando una conciencia independentista. Así, la invasión napoleónica actuó como detonante indirecto del proceso de emancipación de las colonias americanas, al debilitar el control español y abrir un camino hacia la autodeterminación.",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El audio describe un 'punto de partida brutal' para trabajadores y campesinos. En el campo, los jornaleros enfrentaban 'trabajo super precario, salarios de miseria' y una dependencia 'totalmente de los terratenientes', calificada como 'casi feudal'. En las ciudades, con la industria naciente, los obreros sufrían 'jornadas interminables, sueldos que no daban para vivir, condiciones peligrosas, vamos, sin seguridad ninguna'. Estas 'condiciones durísimas' fueron las que empujaron a la gente a organizarse.",
+      "correct_answer": "Jornaleros: trabajo precario, salarios de miseria, dependencia de terratenientes. Obreros industriales: jornadas interminables, sueldos insuficientes, condiciones peligrosas sin seguridad."
     },
     {
-      "time": 45,
-	  "timeback": 30,
-      "text": "¿Quién lideró la primera revuelta?",
+      "time": 119,
+      "timeback": 70,
+      "text": "¿Quién fue la figura clave en la fundación del PSOE y la UGT, y cuál era el enfoque principal de estas organizaciones según el texto?",
       "id": "q2",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "Frente a la difícil situación, el audio explica que surgen distintas corrientes ideológicas. Una de las más 'estructuradas' fue el socialismo. La figura 'fundamental' fue Pablo Iglesias, quien funda el PSOE en 1879 y, un poco después, la UGT (Unión General de Trabajadores) en 1888. Su enfoque principal, según el texto, era la 'acción política y la organización sindical'. Buscaban 'cambios concretos a través de la legislación', como la reducción de la jornada laboral, acceso a la educación y seguros sociales. La UGT se concibe como el 'brazo sindical' para negociar, presionar e incluso ir a la huelga.",
+      "correct_answer": "Pablo Iglesias. El enfoque principal era la acción política y la organización sindical para lograr cambios concretos a través de la legislación y la negociación (reducción de jornada, educación, seguros sociales)."
     },
     {
-      "time": 78,
-	  "timeback": 50,
-      "text": "¿Qué país apoyó económicamente al movimiento?",
+      "time": 181,
+      "timeback": 121,
+      "text": "El anarquismo representaba una alternativa radical al socialismo. ¿Cuál era su principal desconfianza y qué tipo de acciones proponían? ¿Cómo impactó la represión estatal en este movimiento?",
       "id": "q3",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El texto menciona otra corriente 'muy potente' con un enfoque 'radicalmente distinto': el anarquismo. Esta corriente 'desconfiaba totalmente del Estado, de la autoridad, de la jerarquía'. Proponían lo que llamaban 'acción directa', que en la práctica significaba 'huelgas generales, boicots, a veces sabotajes', una 'confrontación mucho más directa, más frontal con el sistema capitalista y con el Estado'. El audio subraya que la 'represión tan dura' y 'brutal' por parte del Estado, en lugar de aplastarlos, muchas veces tuvo el efecto contrario: 'radicalizó a la gente, extendió sus ideas', especialmente en zonas agrarias del sur como Andalucía y en la industria catalana.",
+      "correct_answer": "Desconfiaban totalmente del Estado, la autoridad y la jerarquía. Proponían la 'acción directa' (huelgas generales, boicots, sabotajes). La represión estatal a menudo radicalizó el movimiento y extendió sus ideas."
+    },
+    {
+      "time": 233,
+      "timeback": 182,
+      "text": "Además del socialismo y el anarquismo (que evolucionó a anarcosindicalismo con la CNT), ¿qué otra forma de asociación 'menos politizada pero importante' menciona el audio y cuál era su función principal?",
+      "id": "q4",
+      "context": "El panorama era más complejo. El audio destaca que no podemos olvidarnos del 'mutualismo', concretamente las 'sociedades de socorros mutuos'. Estas se basaban en la 'solidaridad más básica': los socios pagaban una cuota y se creaba un fondo para ayudar en caso de 'enfermedad, de accidente, de paro o incluso de muerte'. Aunque no tuvieran un 'objetivo revolucionario como tal', el texto destaca que fueron 'cruciales' porque 'crearon redes de apoyo muy necesarias y fomentaron una conciencia de ser trabajadores con problemas comunes', funcionando como una 'especie de red de seguridad informal'.",
+      "correct_answer": "El mutualismo (sociedades de socorros mutuos). Su función era crear un fondo mediante cuotas para ayudar a los socios en caso de enfermedad, accidente, paro o muerte, fomentando la solidaridad y redes de apoyo."
+    },
+    {
+      "time": 288,
+      "timeback": 235,
+      "text": "El audio menciona también el sindicalismo católico. ¿Cuál era su principal objetivo al surgir y qué tipo de relación entre clases y trabajadores/patronos proponía, en contraste con otras corrientes?",
+      "id": "q5",
+      "context": "Junto a las iniciativas de base, surgió una respuesta desde el ámbito religioso: el 'sindicalismo católico'. Fue promovido por sectores de la Iglesia, 'sobre todo como una alternativa al socialismo y al anarquismo', a los que veían como una 'amenaza ideológica'. Su planteamiento era distinto: 'abogaban por la armonía entre clases, por la colaboración entre patronos y obreros, rechazaban de plano la idea de lucha de clases'. Aunque su influencia fue 'más limitada' en comparación, tuvo 'cierto arraigo' sobre todo en zonas rurales y entre trabajadores de oficios más tradicionales.",
+      "correct_answer": "Surgió como alternativa al socialismo y anarquismo. Proponía la armonía y colaboración entre clases (trabajadores y patronos), rechazando la lucha de clases."
+    },
+    {
+      "time": 340,
+      "timeback": 289,
+      "text": "En general, ¿qué imagen nos dibujan las fuentes sobre las respuestas a las duras condiciones de vida y trabajo de la época, y qué papel jugó la diversidad de estas corrientes en el movimiento obrero y campesino?",
+      "id": "q6",
+      "context": "El audio concluye que las fuentes dibujan un 'mosaico muy rico, muy variado'. Ante problemas comunes como la dureza de la vida y la explotación, surgieron 'respuestas muy diferentes': desde la política socialista, la acción directa anarquista, la solidaridad de las mutuas, hasta la colaboración propuesta por el sindicalismo católico. Lo relevante es ver esa 'diversidad no como una debilidad, sino como una muestra de la vitalidad del momento, de la urgencia que había'. Todas estas corrientes, con sus enormes diferencias, contribuyeron a 'organizar, a concienciar y a movilizar a miles y miles de trabajadores y campesinos', marcando un 'antes y un después' y sentando las bases para futuros conflictos y transformaciones sociales.",
+      "correct_answer": "Un mosaico rico y variado de respuestas. La diversidad, lejos de ser una debilidad, mostró la vitalidad y urgencia del momento, contribuyendo a organizar, concienciar y movilizar a trabajadores y campesinos."
     }
   ]
 }
-
