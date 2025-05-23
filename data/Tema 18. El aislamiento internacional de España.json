@@ -1,30 +1,45 @@
 {
-  "audioFile": "Tema 8. Movimiento obrero.mp3",
+  "audioFile": "Tema 18. El aislamiento internacional de España.mp3",
   "questions": [
     {
-      "time": 12,
-	  "timeback": 4,
-      "text": "¿Qué evento marcó el inicio del proceso independentista?",
+      "time": 51,
+      "timeback": 16,
+      "text": "Según la resolución de la ONU de diciembre de 1946 mencionada en el audio, ¿cómo calificaba la ONU al régimen de Franco y qué relación se señalaba con las potencias del Eje durante la Segunda Guerra Mundial?",
       "id": "q1",
-	  "context": "En 1808, la invasión de España por parte de Napoleón Bonaparte provocó una profunda crisis de legitimidad en la monarquía española. El rey Fernando VII fue depuesto y reemplazado por José Bonaparte, lo que generó un vacío de poder en la metrópoli. Ante esta situación, en América surgieron juntas de gobierno locales que decían actuar en nombre del rey legítimo, pero que progresivamente fueron desarrollando una conciencia independentista. Así, la invasión napoleónica actuó como detonante indirecto del proceso de emancipación de las colonias americanas, al debilitar el control español y abrir un camino hacia la autodeterminación.",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El audio se centra en una resolución de la ONU de diciembre de 1946 que fue clave para entender el aislamiento de España. Esta resolución, 'sin rodeos', calificaba al régimen de Franco de 'fascista'. Recalcaba que se había impuesto con ayuda de la 'Alemania nazi y de la Italia fascista' y que, además, España había 'colaborado con ellos durante la guerra'. Para las recién creadas Naciones Unidas, esto era una 'línea roja total'.",
+      "correct_answer": "La ONU calificaba al régimen de Franco de fascista, señalando que se impuso con ayuda de la Alemania nazi y la Italia fascista, y que además colaboró con ellas durante la Segunda Guerra Mundial."
     },
     {
-      "time": 45,
-	  "timeback": 30,
-      "text": "¿Quién lideró la primera revuelta?",
+      "time": 100,
+      "timeback": 51,
+      "text": "¿Qué dos recomendaciones principales hizo la ONU a sus países miembros respecto a España como consecuencia de la resolución de 1946, y qué implicación tuvo esto para la participación de España en organismos internacionales?",
       "id": "q2",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "La resolución de la ONU no se quedó solo en palabras. Hizo recomendaciones concretas: primero, que los países miembros 'retiraran a sus embajadores de Madrid', un gesto diplomático importante. Segundo, y 'quizá más importante aún', recomendó 'excluir a España de todos los organismos internacionales vinculados a la ONU'. Esto supuso un 'portazo en toda regla', dejando a España completamente aislada. La condición para revertirlo era un gobierno que respetara las libertades básicas, es decir, una democracia.",
+      "correct_answer": "Recomendó retirar embajadores de Madrid y excluir a España de todos los organismos internacionales vinculados a la ONU, lo que significó un aislamiento casi total."
     },
     {
-      "time": 78,
-	  "timeback": 50,
-      "text": "¿Qué país apoyó económicamente al movimiento?",
+      "time": 152,
+      "timeback": 101,
+      "text": "El aislamiento internacional tuvo consecuencias económicas graves para España, como la exclusión del Plan Marshall. ¿A qué política económica se vio forzado el régimen franquista como resultado de este aislamiento, y qué significó para la población?",
       "id": "q3",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "Las consecuencias del aislamiento fueron inmediatas. España quedó fuera de la ONU y, crucialmente, 'fuera del Plan Marshall', la gran ayuda americana para reconstruir Europa, de la que España 'no vio ni un dólar'. Esto forzó al régimen a la 'famosa autarquía': intentar 'apañárselas solos, producirlo todo dentro, controlar la economía desde el Estado', un 'cierre casi total al exterior'. Para la gente de a pie, esto significó 'años muy duros, durísimos, escasez de todo, las cartillas de racionamiento' y el auge del mercado negro (estraperlo).",
+      "correct_answer": "Se vio forzado a la autarquía (producirlo todo dentro y controlar la economía estatalmente). Para la población significó años de escasez, cartillas de racionamiento y mercado negro."
+    },
+    {
+      "time": 212,
+      "timeback": 153,
+      "text": "El audio explica que el aislamiento de España empezó a romperse debido a un cambio en el escenario internacional. ¿Cuál fue este cambio y por qué un dictador como Franco comenzó a ser visto con otros ojos, especialmente por Estados Unidos?",
+      "id": "q4",
+      "context": "El 'cambio radical fuera de España' que modificó la situación fue la 'Guerra Fría', el enfrentamiento entre EEUU y la URSS. De repente, un dictador como Franco, que era 'anticomunista hasta la médula, empezó a ser visto con otros ojos', sobre todo por Washington. 'Su anticomunismo feroz empezó a pesar más que su pasado fascista o su presente dictatorial'. La ubicación estratégica de España también ayudó, viéndola como un 'bastión anticomunista en el sur de Europa'. Esto fue 'pragmatismo puro'.",
+      "correct_answer": "El cambio fue la Guerra Fría (EEUU vs URSS). El férreo anticomunismo de Franco y la ubicación estratégica de España hicieron que EEUU lo viera como un potencial aliado, priorizando esto sobre su pasado fascista o su dictadura."
+    },
+    {
+      "time": 270,
+      "timeback": 213,
+      "text": "¿Qué acuerdos firmó España con Estados Unidos en 1953 y qué implicaron para el fin del aislamiento más duro y la posterior entrada de España en la ONU? ¿Qué supuso el Plan de Estabilización de 1959?",
+      "id": "q5",
+      "context": "Los pactos con Estados Unidos de 1953 (Pactos de Madrid) fueron cruciales. España cedía terreno para bases militares americanas (Torrejón, Rota, Morón, Zaragoza) y a cambio recibía 'ayuda económica muy necesaria y, sobre todo, el reconocimiento diplomático de EEUU'. Esto 'rompía el aislamiento más duro'. Dos años después, en 1955, 'España entra en la ONU'. Internamente, a finales de los 50, llegaron los 'tecnócratas' (muchos del Opus Dei) con un nuevo enfoque económico: el Plan de Estabilización de 1959, que supuso el 'fin oficial de la autarquía', abriendo tímidamente España a la inversión extranjera y al turismo.",
+      "correct_answer": "Los Pactos de Madrid (1953) permitieron bases militares de EEUU en España a cambio de ayuda económica y reconocimiento diplomático, rompiendo el aislamiento y facilitando la entrada en la ONU en 1955. El Plan de Estabilización (1959) puso fin a la autarquía."
     }
   ]
 }
-
