@@ -1,4 +1,48 @@
 {
+  "audioFile": "Tema 21. Decadencia del franquismo.mp3",
+  "questions": [
+    {
+      "time": 45,
+      "timeback": 14,
+      "text": "Según el análisis de Pere Ysàs, ¿cuáles eran los principales factores internos que estaban debilitando la dictadura franquista en sus últimos años, antes incluso de la muerte de Franco?",
+      "id": "q1",
+      "context": "El audio, basado en el libro de Pere Ysàs 'Disidencia y subversión', explora por qué el régimen franquista parecía agotado tras casi 40 años. Ysàs argumenta que la represión, aunque pilar del régimen, ya no bastaba para contener los cambios sociales profundos ni las ideas democráticas que llegaban de fuera. Varios factores internos debilitaban la dictadura: la sociedad española cambiaba muy rápido, y la oposición (movimientos sociales, sindicalismo como Comisiones Obreras, agitación universitaria) se hacía más fuerte y visible. Además, existía una crisis en la propia estructura del poder, no solo por la salud de Franco, sino porque el sistema en sí estaba desgastado.",
+      "correct_answer": "Los factores incluían profundos cambios sociales que el régimen no podía contener, una oposición (social, sindical, universitaria) cada vez más fuerte y visible, y una crisis en la propia estructura de poder del régimen, que estaba desgastado."
+    },
+    {
+      "time": 93,
+      "timeback": 46,
+      "text": "¿Qué crisis económica internacional de los años 70 impactó fuertemente a España y cómo se sumó a los problemas externos del régimen, como la situación en Guinea Ecuatorial y el Sáhara Occidental?",
+      "id": "q2",
+      "context": "A los problemas internos se sumaron factores externos. La crisis económica de 1973, la 'crisis del petróleo', golpeó duramente a España, causando 'inflación por las nubes, el paro subiendo' y, consecuentemente, 'más malestar obrero'. En el plano internacional, el régimen también enfrentaba dificultades: había perdido Guinea Ecuatorial en 1968 y, sobre todo, estaba la 'crisis del Sáhara Occidental', con la Marcha Verde marroquí en 1975, que mostró una 'debilidad exterior muy clara' del régimen.",
+      "correct_answer": "La crisis del petróleo de 1973, que causó inflación y aumento del paro. A esto se sumó la pérdida de Guinea Ecuatorial y la crisis del Sáhara Occidental (Marcha Verde)."
+    },
+    {
+      "time": 133,
+      "timeback": 93,
+      "text": "Tras la muerte de Carrero Blanco en 1973, Franco nombró a Carlos Arias Navarro. ¿Qué tímida iniciativa de apertura insinuó Arias Navarro y por qué no prosperó?",
+      "id": "q3",
+      "context": "El asesinato de Carrero Blanco por ETA en diciembre de 1973, quien era el sucesor designado y hombre fuerte de Franco, creó un 'vacío inmenso e inesperado'. Franco nombró entonces a Carlos Arias Navarro, otro hombre del régimen, quien 'insinuó alguna apertura, muy tímida, con aquello del espíritu del 12 de febrero'. Sin embargo, esta 'promesa muy vaga' chocó 'de frente con el núcleo duro, los inmovilistas, el famoso búnker', que 'no querían cambiar ni una coma'. Así, esta 'intentona de apertura pues quedó en nada'.",
+      "correct_answer": "Arias Navarro insinuó una tímida apertura con el 'espíritu del 12 de febrero', pero no prosperó debido a la oposición del núcleo duro del régimen (los inmovilistas o 'búnker')."
+    },
+    {
+      "time": 180,
+      "timeback": 134,
+      "text": "Con la muerte de Franco en noviembre de 1975, el análisis de Ysàs sugiere que se abrían tres grandes posibilidades o escenarios para el futuro de España. ¿Cuáles eran estas tres vías?",
+      "id": "q4",
+      "context": "Tras la muerte de Franco, el análisis de Ysàs plantea tres escenarios principales: \n1. La 'continuidad sin más', defendida por los 'inmovilistas del búnker', que buscaban seguir igual pero sin Franco, manteniendo las leyes fundamentales.\n2. Una 'reforma pero pactada desde dentro, desde las propias estructuras del régimen', impulsada por los 'aperturistas' como Adolfo Suárez, Manuel Fraga y el propio rey Juan Carlos I.\n3. La 'ruptura democrática', propuesta por la oposición antifranquista agrupada en la 'Platajunta', que buscaba desmontar todo el aparato franquista y convocar elecciones libres para una nueva constitución.",
+      "correct_answer": "1. Continuidad del régimen sin Franco (inmovilistas). 2. Reforma pactada desde dentro del régimen (aperturistas, incluyendo al Rey). 3. Ruptura democrática (oposición antifranquista/Platajunta)."
+    },
+    {
+      "time": 232,
+      "timeback": 181,
+      "text": "Finalmente, ¿cuál de las tres vías mencionadas se impuso tras la muerte de Franco y quiénes fueron sus principales artífices, llevando a la Transición democrática?",
+      "id": "q5",
+      "context": "De las tres vías, 'al final se impuso la segunda vía, la de la reforma pactada'. Esta fue 'liderada por el rey Juan Carlos I y llevada a cabo por Adolfo Suárez', a quien el rey nombró presidente en julio de 1976. Superando 'muchas resistencias del búnker', este fue el camino que 'nos llevó a la Transición', culminando con las primeras elecciones democráticas en junio de 1977 y la Constitución de 1978. El análisis de Ysàs sugiere que, aunque Franco muriera físicamente, el franquismo como sistema político viable 'ya estaba agotado', era 'insostenible'.",
+      "correct_answer": "Se impuso la vía de la reforma pactada desde dentro del régimen, liderada por el rey Juan Carlos I y ejecutada por Adolfo Suárez como presidente del gobierno."
+    }
+  ]
+}{
   "audioFile": "Tema 8. Movimiento obrero.mp3",
   "questions": [
     {
