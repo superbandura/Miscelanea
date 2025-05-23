@@ -1,30 +1,45 @@
 {
-  "audioFile": "Tema 8. Movimiento obrero.mp3",
+  "audioFile": "Tema 19. La oposición democrática.mp3",
   "questions": [
     {
-      "time": 12,
-	  "timeback": 4,
-      "text": "¿Qué evento marcó el inicio del proceso independentista?",
+      "time": 55,
+      "timeback": 30,
+      "text": "Según el análisis de León Álvarez, ¿cuál fue la naturaleza y el objetivo principal de la represión franquista en la posguerra, más allá de ser una simple 'limpieza'?",
       "id": "q1",
-	  "context": "En 1808, la invasión de España por parte de Napoleón Bonaparte provocó una profunda crisis de legitimidad en la monarquía española. El rey Fernando VII fue depuesto y reemplazado por José Bonaparte, lo que generó un vacío de poder en la metrópoli. Ante esta situación, en América surgieron juntas de gobierno locales que decían actuar en nombre del rey legítimo, pero que progresivamente fueron desarrollando una conciencia independentista. Así, la invasión napoleónica actuó como detonante indirecto del proceso de emancipación de las colonias americanas, al debilitar el control español y abrir un camino hacia la autodeterminación.",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El audio se basa en el trabajo del historiador León Álvarez, quien sostiene que la represión franquista no fue algo pasajero o caótico. Álvarez argumenta que fue un 'pilar estructural del régimen desde el minuto uno', una 'estrategia muy pensada, muy metódica'. Su objetivo era 'eliminar cualquier tipo de disidencia' y 'moldear a la sociedad a imagen y semejanza de los ideales del franquismo'. Implicaba no solo violencia física, sino una 'limpieza social' y una 'reeducación forzosa', buscando la colaboración de la gente mediante delaciones para crear un clima de miedo.",
+      "correct_answer": "Fue un pilar estructural del régimen desde el inicio, una estrategia metódica para eliminar toda disidencia, moldear la sociedad a los ideales franquistas, implicando limpieza social y reeducación forzosa, y buscando la colaboración ciudadana mediante delaciones."
     },
     {
-      "time": 45,
-	  "timeback": 30,
-      "text": "¿Quién lideró la primera revuelta?",
+      "time": 104,
+      "timeback": 56,
+      "text": "El régimen franquista utilizó un entramado legal para ejercer la represión. ¿Qué dos leyes importantes se mencionan en el audio y qué permitían hacer?",
       "id": "q2",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "Para ejercer la represión, el régimen se apoyó en un 'entramado legal a medida'. El audio destaca dos leyes: la Ley de Responsabilidades Políticas de 1939, que permitía 'castigar hacia atrás, retroactivamente, económica y socialmente a cualquiera que hubiera apoyado a la República, incluso de forma pasiva'. Y la Ley de Represión de la Masonería y el Comunismo de 1940, para 'perseguir a grupos que consideraban enemigos internos'. Además, se utilizaron tribunales militares y especiales, y luego el Tribunal de Orden Público, que actuaban con 'muchísima dureza', junto a un 'control social asfixiante' (censura, fomento de delaciones).",
+      "correct_answer": "La Ley de Responsabilidades Políticas (1939), que permitía castigar retroactivamente a quienes apoyaron la República, y la Ley de Represión de la Masonería y el Comunismo (1940), para perseguir a grupos considerados enemigos internos."
     },
     {
-      "time": 78,
-	  "timeback": 50,
-      "text": "¿Qué país apoyó económicamente al movimiento?",
+      "time": 161,
+      "timeback": 105,
+      "text": "A pesar de la dura represión, existió resistencia al franquismo. En los años 40, ¿cuál fue la forma más visible de esta resistencia y en qué consistió la 'Operación Reconquista de España' de 1944?",
       "id": "q3",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "A pesar del terror, hubo resistencia. En los años 40, la forma más visible fue 'la guerrilla, el Maquis', compuesta por 'combatientes republicanos, gente huida que se echaron al monte'. También hubo intentos más organizados, como la 'Operación Reconquista de España en el 44', que fue una 'invasión desde Francia por el Valle de Arán'. Sin embargo, fracasó debido a la 'represión brutal' y la 'falta de apoyo internacional', ya que comenzaba la Guerra Fría y a las potencias occidentales no les interesaba intervenir.",
+      "correct_answer": "La forma más visible fue la guerrilla (el Maquis). La 'Operación Reconquista de España' fue una invasión de guerrilleros desde Francia por el Valle de Arán en 1944, que fracasó."
+    },
+    {
+      "time": 203,
+      "timeback": 162,
+      "text": "Hacia los años 50, la guerrilla estaba casi desmantelada. ¿Hacia dónde se desplazó principalmente la oposición y qué características tuvo esta nueva forma de resistencia?",
+      "id": "q4",
+      "context": "Para los años 50, la guerrilla estaba 'casi desmantelada'. La resistencia tuvo que buscar otras formas y 'empezó a moverse más en las universidades, movimientos estudiantiles clandestinos'. Surgió 'una oposición más de tipo intelectual, política', aunque todavía 'muy minoritaria y muy perseguida'. El régimen, lejos de relajarse, 'endureció la represión contra estas nuevas formas'.",
+      "correct_answer": "Se desplazó principalmente a las universidades, con movimientos estudiantiles clandestinos, y surgió una oposición más intelectual y política, aunque minoritaria y perseguida."
+    },
+    {
+      "time": 243,
+      "timeback": 204,
+      "text": "El audio concluye que la represión fue una herramienta constante y fundamental para el franquismo. ¿Qué se dice sobre la persistencia de la oposición a pesar del terror y el aislamiento?",
+      "id": "q5",
+      "context": "La conclusión principal es que la represión 'no fue solo al principio, no', sino una 'herramienta constante, fundamental para que el franquismo se mantuviera', un 'pilar del régimen durante décadas'. La otra cara de la moneda es que, 'a pesar del terror, del aislamiento, la oposición nunca desapareció del todo. Simplemente cambió de forma, se adaptó y sentó las bases, aunque fueran muy frágiles, para las luchas futuras por la democracia'. Se la describe como una 'llama que no se apagó'.",
+      "correct_answer": "A pesar del terror y el aislamiento, la oposición nunca desapareció por completo; cambió de forma, se adaptó y sentó bases frágiles para futuras luchas democráticas, como una llama que no se apagó."
     }
   ]
 }
-
