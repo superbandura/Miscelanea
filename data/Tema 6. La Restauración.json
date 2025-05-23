@@ -2,29 +2,44 @@
   "audioFile": "Tema 6. La Restauración.mp3",
   "questions": [
     {
-      "time": 12,
-	  "timeback": 4,
-      "text": "¿Qué evento marcó el inicio del proceso independentista?",
+      "time": 62,
+      "timeback": 34,
+      "text": "Según el audio, ¿quién fue el principal arquitecto del sistema de la Restauración y cuál era su objetivo primordial al diseñar el nuevo régimen político?",
       "id": "q1",
-	  "context": "En 1808, la invasión de España por parte de Napoleón Bonaparte provocó una profunda crisis de legitimidad en la monarquía española. El rey Fernando VII fue depuesto y reemplazado por José Bonaparte, lo que generó un vacío de poder en la metrópoli. Ante esta situación, en América surgieron juntas de gobierno locales que decían actuar en nombre del rey legítimo, pero que progresivamente fueron desarrollando una conciencia independentista. Así, la invasión napoleónica actuó como detonante indirecto del proceso de emancipación de las colonias americanas, al debilitar el control español y abrir un camino hacia la autodeterminación.",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El audio comienza contextualizando el fin de una época muy movida, el Sexenio Democrático (1868-1874), que incluyó una monarquía democrática y una república, descrita como un 'lío' o 'torbellino'. Tras este periodo, se produce la Restauración Borbónica en 1874 con la vuelta de Alfonso XII. En este momento, el audio destaca la figura de Antonio Cánovas del Castillo, a quien se refiere como 'el arquitecto del sistema'. Se explica que Cánovas diseñó un nuevo régimen político con una meta muy clara: buscar 'orden, paz' y, fundamentalmente, 'acabar con la inestabilidad crónica que venía de atrás', refiriéndose a los constantes cambios y conflictos del Sexenio.",
+      "correct_answer": "Antonio Cánovas del Castillo. Su objetivo primordial era conseguir orden, paz y acabar con la inestabilidad crónica anterior."
     },
     {
-      "time": 45,
-	  "timeback": 30,
-      "text": "¿Quién lideró la primera revuelta?",
+      "time": 128,
+      "timeback": 65,
+      "text": "¿Cuál fue la base legal fundamental del régimen de la Restauración y qué característica principal destaca el audio sobre ella y sobre el papel del rey?",
       "id": "q2",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "Para alcanzar la estabilidad deseada por Cánovas, el audio explica que la herramienta principal fue la Constitución de 1876. Se subraya que esta Constitución era 'la base de todo' el nuevo sistema. Una característica distintiva, en contraste con constituciones previas, era su intencionada 'flexibilidad'. No era rígida, sino diseñada para perdurar. Un elemento crucial que introdujo fue la 'soberanía compartida' entre el Rey y las Cortes. Dentro de este esquema, se le otorgaba al Rey un 'papel de árbitro', un 'poder moderador' que se situaba por encima de las disputas partidistas. El objetivo de este diseño era, precisamente, 'evitar bloqueos' políticos como los que habían caracterizado y dificultado el periodo anterior.",
+      "correct_answer": "La Constitución de 1876. Su característica principal era su flexibilidad y establecía una soberanía compartida, con el rey como árbitro y poder moderador."
     },
     {
-      "time": 78,
-	  "timeback": 50,
-      "text": "¿Qué país apoyó económicamente al movimiento?",
+      "time": 208,
+      "timeback": 144,
+      "text": "El sistema de la Restauración se basaba en el 'turno pacífico' entre dos grandes partidos. ¿Cuáles eran estos partidos y en qué consistía teóricamente este 'turno pacífico'?",
       "id": "q3",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El audio explica que, fundamentadas en la Constitución de 1876, se erigieron dos ideas clave para el funcionamiento del régimen: el 'bipartidismo' y el 'turno pacífico'. Se identifican los dos grandes partidos dinásticos: el Partido Conservador, liderado por el propio Cánovas del Castillo, y el Partido Liberal, encabezado por Práxedes Mateo Sagasta. La teoría del 'turno pacífico' consistía en que estos dos partidos se alternarían en el gobierno de una manera 'pacífica, predecible', evitando así las 'revoluciones ni pronunciamientos' militares que habían sido comunes en el pasado. Se describe como un 'pacto entre caballeros', donde el Rey jugaba un papel formal al llamar a uno u otro a formar gobierno cuando 'tocaba', dando el 'visto bueno para el cambio', lo que en teoría sonaba 'muy ordenado, muy civilizado'.",
+      "correct_answer": "El Partido Conservador (liderado por Cánovas) y el Partido Liberal (liderado por Sagasta). El 'turno pacífico' consistía en que estos dos partidos se alternaran en el gobierno de forma pactada, pacífica y predecible."
+    },
+    {
+      "time": 293,
+      "timeback": 209,
+      "text": "Si el 'turno pacífico' no se debía a elecciones limpias, ¿cómo se aseguraba en la práctica la alternancia pactada y qué dos mecanismos principales de manipulación electoral se mencionan?",
+      "id": "q4",
+      "context": "El audio introduce una distinción crucial entre la teoría del 'turno pacífico' y su aplicación práctica, refiriéndose a esta última como la 'cara B del sistema'. Se explica que para que el turno funcionara 'como un reloj' y se mantuviera la alternancia deseada, era necesario 'asegurarse de que salieran los resultados previstos' en las elecciones. Esto se lograba mediante una 'manipulación electoral sistemática'. El audio detalla dos herramientas principales para esta manipulación: \n1. El 'caciquismo': descrito como la influencia de un 'personaje local influyente' (terrateniente, notario) que 'controlaba los votos' en el ámbito rural (que era mayoritario) a través de métodos como 'amenazas, compra, coacción, favores, promesas, compra directa de votos'.\n2. El 'encasillado': esta era la 'planificación central' realizada 'desde el Ministerio de la Gobernación en Madrid'. Antes de las elecciones, 'se hacía la lista de quién tenía que ganar' en cada distrito electoral. Los gobernadores civiles en cada provincia se encargaban de que esos resultados se produjeran.",
+      "correct_answer": "Se aseguraba mediante la manipulación electoral sistemática. Los dos mecanismos principales eran el caciquismo y el encasillado."
+    },
+    {
+      "time": 353,
+      "timeback": 295,
+      "text": "El audio concluye que la Restauración logró estabilidad pero no fue un sistema democrático pleno. ¿En qué se basaba esta estabilidad y qué consecuencias tuvo para la participación ciudadana y la representatividad?",
+      "id": "q5",
+      "context": "El audio recapitula que la Restauración 'consiguió la estabilidad', cumpliendo su objetivo principal tras el caos del Sexenio, logrando 'décadas de paz civil interna y continuidad'. Sin embargo, al analizarla con 'ojos de hoy' en términos de democracia, se concluye que 'no cumple los requisitos'. Era una 'fachada' sin 'participación real', 'pluralismo efectivo' y con 'fraude constante'. Esta estabilidad, aunque un 'éxito relativo en cuanto a pacificación' que permitió 'un respiro y cierta modernización económica', se basaba en la 'alternancia controlada' gracias a la 'manipulación electoral, el caciquismo, el encasillado y un control social importante' (incluyendo control de la prensa y fuerte influencia de la Iglesia en la educación). Este 'modelo muy alejado de lo que entendemos por democracia participativa' tuvo como consecuencia una 'mucha apatía' y una 'abstención electoral enorme', ya que 'la gente sabía que su voto en realidad contaba poco o nada', lo que significó 'sacrificar la representatividad' real de la ciudadanía.",
+      "correct_answer": "La estabilidad se basaba en la manipulación electoral (caciquismo, encasillado) y el control social. Esto llevó a la apatía ciudadana, alta abstención y a sacrificar la representatividad democrática."
     }
   ]
 }
-
