@@ -1,30 +1,45 @@
 {
-  "audioFile": "Tema 8. Movimiento obrero.mp3",
+  "audioFile": "Tema 15. De la formacion del Frente Popular a la Guerra Civil.mp3",
   "questions": [
     {
-      "time": 12,
-	  "timeback": 4,
-      "text": "¿Qué evento marcó el inicio del proceso independentista?",
+      "time": 55,
+      "timeback": 29,
+      "text": "El audio se basa en un discurso de Juan Negrín, presidente del gobierno republicano, dado en Nueva York en mayo de 1939. ¿Cuál es la principal tesis de Negrín sobre el origen de la Guerra Civil, especialmente en relación con el golpe de estado de julio de 1936?",
       "id": "q1",
-	  "context": "En 1808, la invasión de España por parte de Napoleón Bonaparte provocó una profunda crisis de legitimidad en la monarquía española. El rey Fernando VII fue depuesto y reemplazado por José Bonaparte, lo que generó un vacío de poder en la metrópoli. Ante esta situación, en América surgieron juntas de gobierno locales que decían actuar en nombre del rey legítimo, pero que progresivamente fueron desarrollando una conciencia independentista. Así, la invasión napoleónica actuó como detonante indirecto del proceso de emancipación de las colonias americanas, al debilitar el control español y abrir un camino hacia la autodeterminación.",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El objetivo es desentrañar las claves que, según Negrín y el análisis histórico, explican por qué estalló la guerra. Se centra en los eventos posteriores a la victoria del Frente Popular en febrero de 1936. Negrín, desde el exilio, busca defender la legitimidad de la República y cargar las tintas contra los sectores 'reaccionarios y pro-fascistas de la derecha'. Su tesis principal es que el golpe de julio del 36 'no fue una reacción así espontánea al asesinato de Calvo Sotelo', sino 'algo ya planeado desde meses antes, una conspiración' para 'cargarse la República e imponer un sistema totalitario'.",
+      "correct_answer": "Negrín sostiene que el golpe de julio de 1936 no fue una reacción espontánea al asesinato de Calvo Sotelo, sino una conspiración planeada con meses de antelación por sectores reaccionarios para derrocar la República e imponer un sistema totalitario."
     },
     {
-      "time": 45,
-	  "timeback": 30,
-      "text": "¿Quién lideró la primera revuelta?",
+      "time": 122,
+      "timeback": 56,
+      "text": "Según el análisis que acompaña el discurso de Negrín, ¿cuál era el contexto europeo en los años 30 y cómo influyó en la situación española que llevó a la Guerra Civil?",
       "id": "q2",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El análisis histórico que contextualiza el discurso de Negrín es fundamental. Fuera de España, Europa estaba 'muy radicalizada después del crack del 29'. Se menciona 'el fascismo en Italia, el nazismo subiendo en Alemania'. Este ambiente 'dio alas a los sectores más reaccionarios aquí' en España. Internamente, el Frente Popular intentaba retomar las reformas del principio de la República (1931-1933), revirtiendo lo del 'bienio conservador anterior', pero la sociedad española estaba 'rota, muy polarizada'.",
+      "correct_answer": "Europa estaba muy radicalizada tras el crack del 29, con el auge del fascismo en Italia y el nazismo en Alemania. Esto envalentonó a los sectores reaccionarios en España."
     },
     {
-      "time": 78,
-	  "timeback": 50,
-      "text": "¿Qué país apoyó económicamente al movimiento?",
+      "time": 182,
+      "timeback": 123,
+      "text": "El audio menciona la Revolución de Asturias de 1934 como un antecedente importante. ¿Qué fue este evento y qué consecuencias tuvo en términos de radicalización y desconfianza en la sociedad española?",
       "id": "q3",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "La Revolución de Asturias de 1934 es señalada como un 'antecedente importantísimo'. Fue una 'insurrección obrera que se reprimió muy duramente por el ejército' bajo órdenes del gobierno de centro-derecha de entonces. Este evento 'dejó unas cicatrices enormes, radicalizó todavía más a todo el mundo y sembró una desconfianza brutal'. La violencia en la calle se disparó entre febrero y julio de 1936, con atentados y peleas constantes.",
+      "correct_answer": "Fue una insurrección obrera duramente reprimida por el ejército, lo que dejó profundas cicatrices, radicalizó a la sociedad y aumentó enormemente la desconfianza."
+    },
+    {
+      "time": 233,
+      "timeback": 183,
+      "text": "Según el análisis presentado en el audio, ¿por qué el 'fracaso inicial' del golpe de estado de julio de 1936 en muchas zonas clave de España fue, paradójicamente, lo que desencadenó la guerra a gran escala?",
+      "id": "q4",
+      "context": "El análisis ofrece una idea 'quizá un poco contraintuitiva': no fue tanto el golpe en sí, 'sino su fracaso' lo que desencadenó la guerra. Los militares sublevados esperaban un 'pronunciamiento clásico, rápido, tomar el poder y ya está'. Sin embargo, 'se toparon con una resistencia muy fuerte, popular y de las fuerzas leales a la República', sobre todo en grandes ciudades como Madrid, Barcelona y zonas industriales. Esta resistencia 'partió el país en dos y convirtió lo que iba a ser un golpe fallido en una guerra larguísima y devastadora'.",
+      "correct_answer": "Porque los militares sublevados esperaban un pronunciamiento rápido, pero la fuerte resistencia popular y de fuerzas leales en zonas clave impidió su éxito inmediato, dividió el país y transformó el golpe fallido en una guerra civil a gran escala."
+    },
+    {
+      "time": 286,
+      "timeback": 237,
+      "text": "Al resumir las causas de la Guerra Civil, el audio la describe como una 'tormenta perfecta'. ¿Cuáles son los principales elementos que se mencionan como componentes de esta 'tormenta perfecta'?",
+      "id": "q5",
+      "context": "La Guerra Civil no se debió a una sola causa, sino a una 'tormenta perfecta'. Los elementos clave mencionados son: 'polarización social y política al extremo; radicalización por el miedo y la desconfianza mutua; las conspiraciones militares; y encima, la influencia de lo que pasaba en Europa con los totalitarismos'. Todo esto junto creó una 'mezcla explosiva'.",
+      "correct_answer": "Los componentes principales fueron: polarización social y política extrema, radicalización por miedo y desconfianza mutua, conspiraciones militares y la influencia del auge de los totalitarismos en Europa."
     }
   ]
 }
-
