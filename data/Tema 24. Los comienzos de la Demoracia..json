@@ -1,30 +1,45 @@
 {
-  "audioFile": "Tema 8. Movimiento obrero.mp3",
+  "audioFile": "Tema 24. Los comienzos de la Demoracia..mp3",
   "questions": [
     {
-      "time": 12,
-	  "timeback": 4,
-      "text": "¿Qué evento marcó el inicio del proceso independentista?",
+      "time": 52,
+      "timeback": 13,
+      "text": "El audio menciona que España enfrentaba 'amenazas muy reales' al inicio de su democracia. ¿Cuáles eran estas amenazas según el contexto del discurso de investidura de Felipe González en 1982?",
       "id": "q1",
-	  "context": "En 1808, la invasión de España por parte de Napoleón Bonaparte provocó una profunda crisis de legitimidad en la monarquía española. El rey Fernando VII fue depuesto y reemplazado por José Bonaparte, lo que generó un vacío de poder en la metrópoli. Ante esta situación, en América surgieron juntas de gobierno locales que decían actuar en nombre del rey legítimo, pero que progresivamente fueron desarrollando una conciencia independentista. Así, la invasión napoleónica actuó como detonante indirecto del proceso de emancipación de las colonias americanas, al debilitar el control español y abrir un camino hacia la autodeterminación.",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "España salía de décadas de dictadura y llegaba al poder el primer gobierno socialista desde la República. Había una 'necesidad imperiosa de consolidar las instituciones democráticas'. El discurso de Felipe González de 1982 se da poco después del intento de golpe del 23F de 1981, lo que evidencia la fragilidad del sistema. Las amenazas eran los 'sectores involucionistas', aquellos que buscaban una 'regresión autoritaria' dentro del ejército y la extrema derecha. El 23F había dejado clarísimo lo frágil que era todo.",
+      "correct_answer": "Las amenazas eran los intentos de golpe de estado y la presión de sectores involucionistas (dentro del ejército y la extrema derecha) que buscaban una regresión autoritaria y ponían en duda la viabilidad democrática."
     },
     {
-      "time": 45,
-	  "timeback": 30,
-      "text": "¿Quién lideró la primera revuelta?",
+      "time": 111,
+      "timeback": 53,
+      "text": "El discurso de Felipe González en 1982 tenía prioridades claras. Además de afianzar la democracia, ¿cuáles eran los otros dos grandes objetivos que se mencionan y que marcarían la agenda de su gobierno?",
       "id": "q2",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "El discurso de investidura de Felipe González es considerado una 'pieza central'. Mostraba un 'compromiso férreo con la Constitución del 78'. Además de 'afianzar la democracia', tenía dos prioridades muy marcadas: 'la lucha antiterrorista' y 'el ingreso en la Comunidad Económica Europea (CEE)'. Estos tres ejes (consolidación democrática, lucha contra el terrorismo e integración europea) fueron fundamentales en su programa.",
+      "correct_answer": "La lucha antiterrorista y el ingreso de España en la Comunidad Económica Europea (CEE)."
     },
     {
-      "time": 78,
-	  "timeback": 50,
-      "text": "¿Qué país apoyó económicamente al movimiento?",
+      "time": 156,
+      "timeback": 112,
+      "text": "La violencia en España durante este periodo fue 'multidireccional'. Además del terrorismo de ETA, ¿qué otro tipo de terrorismo y violencia estatal o paraestatal menciona el documento como parte de esta 'época de plomo'?",
       "id": "q3",
-	  "context": "La invasión de España por parte de Napoleón en 1808",
-      "correct_answer": "La invasión de España por parte de Napoleón en 1808"
+      "context": "Los años de la transición y consolidación democrática fueron 'los años de plomo', una época marcada por una 'violencia brutal y multidireccional'. No solo ETA intensificaba sus atentados, sino que también existía 'terrorismo de extrema derecha, como la matanza de Atocha contra abogados laboralistas en el 77'. Además, el documento menciona 'episodios de violencia estatal o paraestatal', como el 'caso Almería en el 81', y más tarde, ya con el gobierno socialista, los GAL. Era un 'ecosistema complejo' de violencia.",
+      "correct_answer": "Se menciona el terrorismo de extrema derecha (ej. matanza de Atocha) y episodios de violencia estatal o paraestatal (ej. caso Almería y posteriormente los GAL)."
+    },
+    {
+      "time": 216,
+      "timeback": 157,
+      "text": "El documento analiza el surgimiento de los GAL (Grupos Antiterroristas de Liberación) bajo el gobierno socialista. ¿Qué factores, según el análisis, contribuyeron a la aparición de este terrorismo de Estado?",
+      "id": "q4",
+      "context": "El surgimiento de los GAL es un 'punto especialmente complejo'. El análisis apunta a una 'combinación de factores': por un lado, la 'enorme presión por obtener resultados contra ETA'. Por otro, la 'persistencia de elementos y, sobre todo, mentalidades del régimen anterior en partes del aparato de seguridad' que seguían ahí. Y 'quizás también, la sensación de que las herramientas del estado de derecho eran, bueno, insuficientes ante la magnitud del desafío terrorista'.",
+      "correct_answer": "Los factores fueron: la enorme presión por obtener resultados contra ETA, la persistencia de elementos y mentalidades del régimen anterior en el aparato de seguridad, y la posible sensación de insuficiencia de las herramientas del estado de derecho frente al terrorismo."
+    },
+    {
+      "time": 266,
+      "timeback": 217,
+      "text": "Además de la lucha antiterrorista, la política exterior del gobierno de Felipe González tuvo dos grandes focos: la entrada en la CEE y la OTAN. ¿Cómo describe el texto la motivación para entrar en la CEE y cuál fue la polémica y el desenlace respecto a la OTAN?",
+      "id": "q5",
+      "context": "La proyección exterior de España se centró en Europa y la OTAN. La entrada en la CEE (conseguida en 1986) era un 'objetivo prioritario', no solo para 'modernizar en abstracto, sino para forzar la adaptación de sectores industriales concretos que se consideraban anquilosados'. Respecto a la OTAN, la situación era 'paradójica': España había entrado en 1982 con Calvo Sotelo, y el PSOE ganó las elecciones con el lema 'OTAN de entrada no' y la promesa de un referéndum. Este se celebró en 1986, y el gobierno socialista, en un cambio de postura, acabó pidiendo el 'sí', que ganó. Se vio como una 'garantía de seguridad y de peso internacional', aunque tuviera un 'coste político interno'.",
+      "correct_answer": "La entrada en la CEE buscaba modernizar la economía y forzar la adaptación industrial. Respecto a la OTAN, tras prometer un referéndum con el lema 'OTAN de entrada no', el gobierno socialista cambió de postura y defendió el 'sí' en el referéndum de 1986, que ganó, viéndolo como una garantía de seguridad."
     }
   ]
 }
-
